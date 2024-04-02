@@ -1,10 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center"> Welcome to the Digital Playground of 5huvo: Crafting Code, Building Dreams, and Embracing Innovation 🚀</h3>
-- 🌱 I’m currently learning **React , Python , Machine Learning**
-- 💬 Ask me about **Java Script, React, ML**
-- 📫 How to reach me **md88748874@gmail.com**
-- ⚡ Fun fact **I am not funny**
+<h3 align="center"> Welcome to the Digital Playground of 5huvo: Crafting Code, Building Dreams, and Embracing Innovation 🚀</h3> <br>
+- 🌱 I’m currently learning **React , Python , Machine Learning** <br>
+- 💬 Ask me about **Java Script, React, ML** <br>
+- 📫 How to reach me **md88748874@gmail.com** <br>
+- ⚡ Fun fact **I am not funny** <br> <br>
+<br>
+
+
 
 <div> <a href="https://twitter.com/@MdShuvo76030551" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Md Shuvo " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -45,7 +48,7 @@
 <div align="center">
 <a href="https://github.com/5huv0">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=5huv0&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=5huv0&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5huv0&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5huv0&theme=bear" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
